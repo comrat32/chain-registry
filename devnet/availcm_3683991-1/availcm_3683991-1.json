@@ -9,14 +9,14 @@
       "displayDenom": "AVA",
       "baseDenom": "uAVA",
       "decimals": 18,
-      "logo": "/logos/availcm_3683991-1.png",
+      "logo": "https://raw.githubusercontent.com/comrat32/rollapp-registry/bb4cca3bf79db0699aa30f4eb14943c5ec7f9e22/devnet/availcm_3683991-1/logos/availcm_3683991-1.jpg",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/availcm_3683991-1.png",
+  "logo": "https://raw.githubusercontent.com/comrat32/rollapp-registry/bb4cca3bf79db0699aa30f4eb14943c5ec7f9e22/devnet/availcm_3683991-1/logos/availcm_3683991-1.jpg",
   "ibc": {
     "hubChannel": "channel-8412",
     "channel": "channel-0",
